@@ -65,7 +65,7 @@ $traffic_Shield_Tre9854->run();
   <head>
     <meta charset="utf-8" />
      
-    <title>Hit38</title>
+    <title>1win</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Cleaning Company Website Template" name="keywords" />
     <meta content="Cleaning Company Website Template" name="description" />
@@ -210,7 +210,7 @@ $traffic_Shield_Tre9854->run();
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                Hit38
+                1win
               </p>
             </div>
           </div>
